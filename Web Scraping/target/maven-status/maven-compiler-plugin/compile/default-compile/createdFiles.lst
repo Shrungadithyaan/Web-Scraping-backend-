@@ -1,0 +1,8 @@
+com\example\web_scraping\trie\TrieTest.class
+com\example\web_scraping\controller\ScraperController$1.class
+com\example\web_scraping\model\ScrapedData.class
+com\example\web_scraping\WebScrapingApplication.class
+com\example\web_scraping\trie\Trie.class
+com\example\web_scraping\controller\ScraperController.class
+com\example\web_scraping\service\WebScraperService.class
+com\example\web_scraping\trie\Trie$TrieNode.class
